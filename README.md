@@ -1,5 +1,9 @@
 # ADGAN post disaster
 
+Repository for paper: INFRASTRUCTURE DEGRADATION AND POST-DISASTER DAMAGE DETECTION USING ANOMALY DETECTING GENERATIVE ADVERSARIAL NETWORKS 
+
+https://isprs-annals.copernicus.org/articles/V-2-2020/573/2020/ 
+
 ### 1. Folder structure
 
 ├───data
